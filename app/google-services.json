@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "862725562569",
+    "project_id": "code-challenge-e3c87",
+    "storage_bucket": "code-challenge-e3c87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862725562569:android:a1492c5c9bcb3b6d2dad18",
+        "android_client_info": {
+          "package_name": "com.mosio.codechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862725562569-15tqapuit0oaaj67fchfjui9kujhuhht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mosio.codechallenge",
+            "certificate_hash": "cf388bb7fa6f7ea09ceb2c9b0d8493204dfae0aa"
+          }
+        },
+        {
+          "client_id": "862725562569-85eu5ght2c652ot84517jtaltbsjqe8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqOngwQUQ8G8kkzBVcaLxM1PYCZ4xWks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862725562569-85eu5ght2c652ot84517jtaltbsjqe8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

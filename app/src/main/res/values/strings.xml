@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Code Challenge</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="image">image</string>
+    <string name="space">" "</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="challenge">Challenge</string>
+    <string name="give_name_to_your_challenge">Give name to your challenge</string>
+    <string name="next">Next</string>
+    <string name="in_room">In Room</string>
+    <string name="share">Share</string>
+    <string name="start">Start</string>
+    <string name="get_your_brain_ready_for_this_challenge">Get your brain ready for this\n challenge!!</string>
+    <string name="i_m_ready">I\'m Ready</string>
+    <string name="your_name">Your name</string>
+    <string name="question">Question</string>
+    <string name="pass">PASS</string>
+    <string name="done">DONE</string>
+    <string name="leaderboard">LeaderBoard</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="finished">Finished</string>
+</resources>
